@@ -8,12 +8,6 @@
 #| Finalmente visualice los valores de los objetos de tipo Estudiante creado
 
 class Estudiante:
-    # Atributos de la clase Estudiante
-    nombres = ""
-    apellidos = ""
-    carrera = ""
-    promedio = 0.0
-
     # Constructor de la clase
     def __init__(self, nombres, apellidos, carrera, promedio):
         self.nombres = nombres
