@@ -1,0 +1,13 @@
+Pais Origen,Hijos,Porcentaje
+Brazil,485.0,45.84
+United States,300.0,28.36
+Peru,190.0,17.96
+Chile,39.0,3.69
+Italy,24.0,2.27
+Costa Rica,20.0,1.89
+
+
+Interpretación del gráfico:
+En este grafico, podemos ver que los paises Brasil, Estados Unidos y Perú, son la mayoría
+Comparado con Chile, Italia y Costa Rica, que son la minoría
+El país con mas hijos es Brasil con 45.84%
